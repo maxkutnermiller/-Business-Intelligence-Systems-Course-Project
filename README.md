@@ -1,3 +1,7 @@
+
+[View the interactive Tableau dashboard](https://public.tableau.com/views/MaxMillerBISystemsCourseProject/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
 **Overview**
 
 This project implements a dimensional data warehouse for retail sales data. It includes staging, dimension modeling, fact table construction, and analytical views. The warehouse supports analysis of sales performance, profitability, sales targets, store comparisons, and customer behavior.
